@@ -3,7 +3,7 @@
 Materials for a workshop on image search with a focus on heritage data. The workshop is based on a blog post [Image search with 🤗 datasets](https://huggingface.co/blog/image-search-datasets) but goes into a *little* bit more detail. 
 
 ## Contents
-- The [Slides](image_search.pdf) is used to introduce [🤗 `datasets`](https://huggingface.co/docs/datasets/index), [`sentence-transformers`](https://www.sbert.net/index.html), and [CLIP](https://openai.com/blog/clip/) as well as giving a broader conceptual overview of image search, embeddings and concluding with some discussion of ethical considerations about deployment. 
+- The [Slides](image_search.pdf) are used to introduce [🤗 `datasets`](https://huggingface.co/docs/datasets/index), [`sentence-transformers`](https://www.sbert.net/index.html), and [CLIP](https://openai.com/blog/clip/) as well as giving a broader conceptual overview of image search, embeddings and concluding with some discussion of ethical considerations about deployment. 
 - [Notebook 1](01_sentence-transformers-intro.ipynb) gives a rapid overview of how `sentence-transformers` can be used to 'encode' text and images for tasks like image search. 
 - [Notebook 2](02_image_search_demo.ipynb) allows for the exploration of the outputs of a CLIP model. This is intended to allow people to *begin* interrogating the strengths, weaknesses and issues with using CLIP with heritage material. 
 - [Notebook 3](03_hf_blog_image_search.ipynb) is the original notebook which accompanied the blog post. This notebook gives an overview of the steps involved from start to finish. 
