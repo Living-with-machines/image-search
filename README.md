@@ -1,5 +1,8 @@
 #  Image search with 🤗 datasets 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6473465.svg)](https://doi.org/10.5281/zenodo.6473465)
+
+
 Materials for a workshop on image search with a focus on heritage data. The workshop is based on a blog post [Image search with 🤗 datasets](https://huggingface.co/blog/image-search-datasets) but goes into a *little* bit more detail. 
 
 ## Contents
